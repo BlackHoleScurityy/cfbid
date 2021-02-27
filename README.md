@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/ZakiGans">Zaki Ahsan</a>
+  Made with ❤️ by <a href="https://github.com/ZakiGans">Zaki Ahsan / Angga Kurniawan</a>
 </p>
 <p align="center">
  <img src="https://raw.githubusercontent.com/BlackHoleScurityy/cfbid/main/20201005_120110.jpg" width="640" title="Menu" alt="Menu">
