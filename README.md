@@ -3,10 +3,10 @@
 </h1>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/anggaxd">Angga Kurniawan</a>
+  Made with ❤️ by <a href="https://github.com/ZakiGans">Zaki Ahsan</a>
 </p>
 <p align="center">
- <img src="https://raw.githubusercontent.com/anggaxd/cfbid/main/20201005_120110.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://raw.githubusercontent.com/BlackHoleScurityy/cfbid/main/20201005_120110.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
    ![](https://img.shields.io/badge/Language-2-blue) ![](https://img.shields.io/badge/Python-2.7-green) ![](https://img.shields.io/badge/Size-174Kb-orange) ![](https://img.shields.io/badge/Relase-20-08-20-brightgreen)
@@ -18,7 +18,7 @@ $ pkg install python2
 $ pip2 install requests
 $ pip2 install mechanize
 $ pkg install git
-$ git clone https://github.com/anggaxd/cfbid
+$ git clone https://github.com/BlackHoleScurityy/cfbid
 ```
 
 ## Run script
